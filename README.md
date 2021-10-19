@@ -5,11 +5,11 @@
 <a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11/Raganork?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/isuwabrooo"><img title="Author" src="https://img.shields.io/badge/Author-isuwabrooo/Raganork?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/souravkl11">souravkl11</a> to make it public
+Project created by <a href="https://github.com/isuwabrooo">isuwabrooo</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/souravkl11/Raganork">
-    <img src="https://img.shields.io/github/repo-size/souravkl11/Raganork?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/isuwabrooo/Raganork">
+    <img src="https://img.shields.io/github/repo-size/isuwabrooo/Raganork?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/souravkl11/Raganork?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/isuwabrooo/followers"><img title="Followers" src="https://img.shields.io/github/followers/isuwabrooo?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/isuwabrooo/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/isuwabrooo/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/isuwabrooo/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/isuwabrooo/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/isuwabrooo/Raganork/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/isuwabrooo/Raganork?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravkl11&show_icons=true&theme=nightowl" alt="souravkl11" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuwabrooo&show_icons=true&theme=nightowl" alt="isuwabrooo" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravkl11&theme=nightowl" alt="souravkl11" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuwabrooo&theme=nightowl" alt="isuwabrooo" /></p>
 </details> </div>
 
 
@@ -52,7 +52,7 @@ Click WA logo to Join Support Group 👇
 <br>
   <div align="center">
     
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/G18G7QjUqi6GqkWvUwre4u)
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/G18G7QjUqi6GqkWvwre4u)
 
 
     
@@ -68,7 +68,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/souravkl11/Raganork.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/Raganork.git)
      <div align="left">
 <br>
 <br >
@@ -83,7 +83,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/souravkl11/Raganork
+$ git clone https://github.com/isuwabrooo/Raganork
 $ cd Raganork
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -93,7 +93,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/souravkl11/Raganork
+$ git clone https://github.com/isuwabrooo/Raganork
 $ cd Raganork
 $ chmod +x *
 $ npm i
@@ -114,9 +114,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) 
 
-  [souravkl11](https://github.com/souravkl11) 
+  [isuwabrooo](https://github.com/isuwabrooo) 
 Base, Bug Fixes, Modules
   </div>
    
